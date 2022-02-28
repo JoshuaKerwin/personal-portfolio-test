@@ -1,0 +1,16 @@
+.footernav {
+  display: flex;
+  justify-content: space-around;
+}
+
+.footersocial {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+}
+.footersocial .icon img {
+  width: 30px;
+  height: 30px;
+}
+
+/*# sourceMappingURL=style.css.map */
